@@ -6,6 +6,12 @@
 
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<script
+	src="https://code.jquery.com/jquery-3.4.1.js"
+	integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+	crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.5.1/chosen.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.5.1/chosen.jquery.min.js"></script>
 
 </head>
 <body>
@@ -22,7 +28,7 @@
 
 
 		<!-- <h3><strong>Question 1</strong></h3> -->
-		<h4>A bad hair day is your greatest fear.</h4>
+		<h4>Waking early runis your day.</h4>
 	 	<select data-placeholder="" class="chosen-select" id="q1">
 	 		<option value=""></option>
             <option value="1">1 (Strongly Disagree)</option>
@@ -45,7 +51,7 @@
 
 
 		<!-- <h3><strong>Question 3</strong></h3> -->
-		<h4>You would rather read a book than play guitar.</h4>
+		<h4>You would rather read a book than watch a movie.</h4>
 	 	<select data-placeholder="" class="chosen-select" id="q3">
 	 		<option value=""></option>
             <option value="1">1 (Strongly Disagree)</option>
@@ -69,7 +75,7 @@
 
 
 		<!-- <h3><strong>Question 5</strong></h3> -->
-		<h4>You love kids and want to have one or more children.</h4>
+		<h4>You want to be hang out with people who have children of their own.</h4>
 	 	<select data-placeholder="" class="chosen-select" id="q5">
 	 		<option value=""></option>
             <option value="1">1 (Strongly Disagree)</option>
@@ -104,7 +110,7 @@
       	</select>
 
 		<!-- <h3><strong>Question 8</strong></h3> -->
-		<h4>You use scientific methods to solve problems instead of going with your gut.</h4>
+		<h4>You use logic rather than emtion to solve problems.</h4>
 	 	<select data-placeholder="" class="chosen-select" id="q8">
 	 		<option value=""></option>
             <option value="1">1 (Strongly Disagree)</option>
@@ -126,7 +132,7 @@
       	</select>
 
 		<!-- <h3><strong>Question 10</strong></h3> -->
-		<h4>You stop eating when you're full.</h4>
+		<h4>You usually eat just to eat.</h4>
 	 	<select data-placeholder="" class="chosen-select" id="q10">
 	 		<option value=""></option>
             <option value="1">1 (Strongly Disagree)</option>
@@ -190,7 +196,7 @@
     }
     // Capture the form inputs 
     $("#submit").on("click", function(){
-    	// Form validation
+    	console.log("submit");
     	function validateForm() {
 		  var isValid = true;
 		  $('.form-control').each(function() {
