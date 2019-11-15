@@ -3,7 +3,7 @@
 var friends = [
 	{
 	name: "Dustin",
-	photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+	photo: "images/hiroto.jpg",
 	scores: [
 	"5",
 	"1",
@@ -19,7 +19,7 @@ var friends = [
 	},
 	{
 	name: "Michael",
-	photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+	photo: "images/chris.jpg",
 	scores: [
 	"4",
 	"2",
@@ -35,7 +35,7 @@ var friends = [
 	},
 	{
 	name: "Ryan",
-	photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+	photo: "images/superman.jpg",
 	scores: [
 	"5",
 	"2",
@@ -51,7 +51,7 @@ var friends = [
 	},
 	{
 	name: "Isaac",
-	photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+	photo: "images/boy.jpg",
 	scores: [
 	"3",
 	"3",
@@ -67,7 +67,7 @@ var friends = [
 	},
 	{
 	name: "Stuart",
-	photo: "https://m.facebook.com/photo.php?fbid=10208500699025296&id=1542229019&set=a.1549418665704.77596.1542229019&source=11",
+	photo: "images/butthead.jpg",
 	scores: [
 	"4",
 	"3",
@@ -83,7 +83,7 @@ var friends = [
 	},
 	{
 	name: "Beau",
-	photo: "https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/12741971_10205764267089153_4212986785721953092_n.jpg?oh=4e18265f7d380167223a97fbd7eba278&oe=57B78445",
+	photo: "images/eric.jpg",
 	scores: [
 	"4",
 	"4",
@@ -99,7 +99,7 @@ var friends = [
 	},
 	{
 	name: "Reuss",
-	photo: "http://i.ebayimg.com/images/g/J1wAAOSwpDdVbZvG/s-l300.jpg",
+	photo: "images/harvey.jpg",
 	scores: [
 	"5",
 	"2",
@@ -115,7 +115,7 @@ var friends = [
 	},
 	{
 	name: "Brett",
-	photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+	photo: "images/professorx.jpg",
 	scores: [
 	"4",
 	"2",
@@ -131,7 +131,7 @@ var friends = [
 	},
 	{
 	name: "Matt",
-	photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+	photo: "images/ash.jpg",
 	scores: [
 	"5",
 	"2",
@@ -146,8 +146,8 @@ var friends = [
 	]
 	},
 	{
-	name: "Raj",
-	photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+	name: "Nathan",
+	photo: "images/bigmouth.jpg",
 	scores: [
 	"1",
 	"3",
