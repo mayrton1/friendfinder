@@ -3,7 +3,7 @@
 var friends = [
 	{
 	name: "Dustin",
-	photo: "images/hiroto.jpg",
+	photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCzp3G_eXlAhUOt54KHUBADnAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FSmiley-Smile-Yellow-Applique-Embroidered%2Fdp%2FB00KM5KWQK&psig=AOvVaw23za52zJ5s2sA3XeidsFMW&ust=1573693037714859",
 	scores: [
 	"5",
 	"1",
@@ -19,7 +19,7 @@ var friends = [
 	},
 	{
 	name: "Michael",
-	photo: "images/chris.jpg",
+	photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCzp3G_eXlAhUOt54KHUBADnAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FSmiley-Smile-Yellow-Applique-Embroidered%2Fdp%2FB00KM5KWQK&psig=AOvVaw23za52zJ5s2sA3XeidsFMW&ust=1573693037714859",
 	scores: [
 	"4",
 	"2",
@@ -35,7 +35,7 @@ var friends = [
 	},
 	{
 	name: "Ryan",
-	photo: "images/superman.jpg",
+	photo: "../public/images/superman.jpg",
 	scores: [
 	"5",
 	"2",
@@ -51,7 +51,7 @@ var friends = [
 	},
 	{
 	name: "Isaac",
-	photo: "images/boy.jpg",
+	photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCzp3G_eXlAhUOt54KHUBADnAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FSmiley-Smile-Yellow-Applique-Embroidered%2Fdp%2FB00KM5KWQK&psig=AOvVaw23za52zJ5s2sA3XeidsFMW&ust=1573693037714859",
 	scores: [
 	"3",
 	"3",
@@ -67,7 +67,7 @@ var friends = [
 	},
 	{
 	name: "Stuart",
-	photo: "images/butthead.jpg",
+	photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCzp3G_eXlAhUOt54KHUBADnAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FSmiley-Smile-Yellow-Applique-Embroidered%2Fdp%2FB00KM5KWQK&psig=AOvVaw23za52zJ5s2sA3XeidsFMW&ust=1573693037714859",
 	scores: [
 	"4",
 	"3",
@@ -83,7 +83,7 @@ var friends = [
 	},
 	{
 	name: "Beau",
-	photo: "images/eric.jpg",
+	photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCzp3G_eXlAhUOt54KHUBADnAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FSmiley-Smile-Yellow-Applique-Embroidered%2Fdp%2FB00KM5KWQK&psig=AOvVaw23za52zJ5s2sA3XeidsFMW&ust=1573693037714859",
 	scores: [
 	"4",
 	"4",
@@ -99,7 +99,7 @@ var friends = [
 	},
 	{
 	name: "Reuss",
-	photo: "images/harvey.jpg",
+	photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCzp3G_eXlAhUOt54KHUBADnAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FSmiley-Smile-Yellow-Applique-Embroidered%2Fdp%2FB00KM5KWQK&psig=AOvVaw23za52zJ5s2sA3XeidsFMW&ust=1573693037714859",
 	scores: [
 	"5",
 	"2",
@@ -115,7 +115,7 @@ var friends = [
 	},
 	{
 	name: "Brett",
-	photo: "images/professorx.jpg",
+	photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCzp3G_eXlAhUOt54KHUBADnAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FSmiley-Smile-Yellow-Applique-Embroidered%2Fdp%2FB00KM5KWQK&psig=AOvVaw23za52zJ5s2sA3XeidsFMW&ust=1573693037714859",
 	scores: [
 	"4",
 	"2",
@@ -131,7 +131,7 @@ var friends = [
 	},
 	{
 	name: "Matt",
-	photo: "images/ash.jpg",
+	photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCzp3G_eXlAhUOt54KHUBADnAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FSmiley-Smile-Yellow-Applique-Embroidered%2Fdp%2FB00KM5KWQK&psig=AOvVaw23za52zJ5s2sA3XeidsFMW&ust=1573693037714859",
 	scores: [
 	"5",
 	"2",
@@ -147,7 +147,7 @@ var friends = [
 	},
 	{
 	name: "Nathan",
-	photo: "images/bigmouth.jpg",
+	photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCzp3G_eXlAhUOt54KHUBADnAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FSmiley-Smile-Yellow-Applique-Embroidered%2Fdp%2FB00KM5KWQK&psig=AOvVaw23za52zJ5s2sA3XeidsFMW&ust=1573693037714859",
 	scores: [
 	"1",
 	"3",
